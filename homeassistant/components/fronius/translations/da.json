@@ -1,0 +1,25 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Enheden er allerede konfigureret",
+            "invalid_host": "Forkert hostname eller IP adresse"
+        },
+        "error": {
+            "cannot_connect": "Kunne ikke tilslutte",
+            "unknown": "Uventet fejl"
+        },
+        "flow_title": "{device}",
+        "step": {
+            "confirm_discovery": {
+                "description": "Vil du tilføje {device} til Home Assistant?"
+            },
+            "user": {
+                "data": {
+                    "host": "Host"
+                },
+                "description": "Konfigurer IP adressen eller hostname fra din Fronius enhed.",
+                "title": "Fronius SolarNet"
+            }
+        }
+    }
+}
